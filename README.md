@@ -1,2 +1,5 @@
 # Iris-Classification-MAJOR-PROJECT
-It's a project based on classification in machine learning to classify the class of the flowers. 
+
+### ->Classfication of Iris flowers on basis of sepal length, sepal width, petal length and petal width
+
+### ->EDA is also perfromed on the dataset
